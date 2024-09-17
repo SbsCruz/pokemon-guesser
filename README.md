@@ -1,6 +1,13 @@
 # 05-pokemon-game
 
-This template should help get you started developing with Vue 3 in Vite.
+## Developed in Vue+Vite+TS+TailwindCSS
+
+```
+A "Who's That Pokemon" game with PokeAPI
+```
+This app uses [pokeAPI](https://pokeapi.co/) to challenge your knowledge about Pokemon
+
+You can check the App here: [Pokemon Guesser](https://pokemon-guesser-vue.netlify.app/)
 
 ## Recommended IDE Setup
 
